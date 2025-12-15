@@ -1,0 +1,7 @@
+F:\semister\lab\Interface Implementation\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\semister\lab\Interface Implementation\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\semister\lab\Interface Implementation\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\semister\lab\Interface Implementation\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\semister\lab\Interface Implementation\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\semister\lab\Interface Implementation\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\semister\lab\Interface Implementation\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
